@@ -1,0 +1,24 @@
+{
+   "name": "Honda Transa LP",
+   "description": "Ideal para ciudad",
+   "price": 6500,
+   "image": "/img/honda-transalp.jpg"
+},
+{
+   "name": "Kawasaky 600",
+   "description": "Potente y elegante",
+   "price": 9200,
+   "image": "/img/kawasaky 600.jpg"
+},
+{
+   "name": "Kawasaky KX 250",
+   "description": "Moderna y económica",
+   "price": 3900,
+   "image": "/img/kawasaky-kx250.jpg"
+},
+{
+   "name": "Suzuki 1200",
+   "description": "Moderna y económica",
+   "price": 13900,
+   "image": "/img/suzuki-1200.jpg"
+}
